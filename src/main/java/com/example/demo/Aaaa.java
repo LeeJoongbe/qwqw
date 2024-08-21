@@ -6,5 +6,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Aaaa {
-    private int a;
+    private int a333;
 }
