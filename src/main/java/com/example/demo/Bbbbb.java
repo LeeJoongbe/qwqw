@@ -13,4 +13,13 @@ public class Bbbbb {
     private int ww;
     private int ee;
 
+
+    //이길작업했따
+
+    //이길작업했따
+    //이길작업했따
+    //이길작업했따
+
+
+    //아니다 이거다
 }
