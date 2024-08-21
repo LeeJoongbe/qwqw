@@ -12,5 +12,7 @@ public class Bbbbb {
     private int qq;
     private int ww;
     private int ee;
-    //77이 추가한 내용
+    //77이 추가한 내용 
+    // 그리고 새로 작성한 내용
+    //이건 b가 먼저 만들었어 한줄 추가
 }
