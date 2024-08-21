@@ -1,11 +1,5 @@
 package com.example.demo;
 
 public class Errr {
-
-
-
-    //asdasd
-    //adsasdd
-    //asdasd
-
+    //이건 한줄이야
 }
