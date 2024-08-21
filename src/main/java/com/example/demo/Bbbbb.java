@@ -12,4 +12,5 @@ public class Bbbbb {
     private int qq;
     private int ww;
     private int ee;
+    //77이 추가한 내용
 }
