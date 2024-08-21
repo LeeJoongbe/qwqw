@@ -10,5 +10,7 @@ public class Aaaa {
     private int a331;
     private int a332;
     private int a334;
+    //이제 마스터랑 머지한다.
     //이작업을 추가했어
+
 }
